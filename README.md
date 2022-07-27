@@ -1,5 +1,5 @@
-# 💫 About Me:
-Game & Flutter Development<br>
+# 💫 Game & Flutter Development
+ I can develop mobile applications and games <br>
 
 
 ## 🌐 Socials:
