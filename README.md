@@ -11,4 +11,3 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ozguraydogan&theme=calm&hide_border=true)<br/>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
