@@ -1,7 +1,3 @@
-# Game & Flutter Development
- I can develop mobile applications and games <br>
-
-
 
 # [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aydoganozgur) 
 
